@@ -11,6 +11,7 @@ spec:
     metadata:
       labels:
         component: web
+        demo-release: "2"
     spec:
       containers:
         - name: web
